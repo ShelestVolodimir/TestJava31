@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "майонез",
+    "costPrice": 1.0,
+    "sellingPrice": 2.0,
+    "topping": false
+  },
+  {
+    "id": 2,
+    "name": "кетчуп",
+    "costPrice": 0.5,
+    "sellingPrice": 1.0,
+    "topping": false
+  },
+  {
+    "id": 3,
+    "name": "гірчиця",
+    "costPrice": 0.3,
+    "sellingPrice": 1.0,
+    "topping": false
+  },
+  {
+    "id": 4,
+    "name": "солодка цибуля",
+    "costPrice": 2.4,
+    "sellingPrice": 5.0,
+    "topping": true
+  },
+  {
+    "id": 5,
+    "name": "халапеньйо",
+    "costPrice": 3.7,
+    "sellingPrice": 5.0,
+    "topping": true
+  },
+  {
+    "id": 6,
+    "name": "чилі",
+    "costPrice": 1.5,
+    "sellingPrice": 3.0,
+    "topping": true
+  },
+  {
+    "id": 7,
+    "name": "солоний огірок",
+    "costPrice": 1.2,
+    "sellingPrice": 3.0,
+    "topping": true
+  }
+]
